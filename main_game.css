@@ -1,0 +1,56 @@
+#output
+{
+    background: white;
+    border-radius: 10px;
+    border-top: 10px solid #aa4465;
+    padding: 10px;
+    float: none;
+    text-align: left;
+}
+
+body
+{
+    background-color: rgb(206, 24, 24);
+}
+
+h4
+{
+    font-size: 35px;
+}
+
+h3
+{
+    font-size: 25px;
+}
+h5
+{
+    color: black;
+    font-size: 15px;
+    text-align: left;
+
+}
+
+button
+{
+    width: 35%;
+    font-size: 20px;
+    border-radius: 5px;
+}
+
+input:hover
+{
+    background-color: rgba(124, 124, 102, 0.664);
+    border: 1px solid black;
+}
+
+button:hover
+{
+    border: 2px ridge black;
+    box-shadow: 3px 3px 3px rgb(155, 134, 134);
+}
+
+#output:hover
+{
+    border: 2px ridge rgb(95, 63, 63);
+    box-shadow: 5px 5px 5px #792b43;
+}
